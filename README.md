@@ -3,6 +3,9 @@
 ## Run npm command below:
 `npm install http-server -g`
 
+## Install other dependencies:
+`npm install`
+
 ## To build the code: 
 `npm run build`
 
